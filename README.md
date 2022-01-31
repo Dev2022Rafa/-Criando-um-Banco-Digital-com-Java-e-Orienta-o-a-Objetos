@@ -34,7 +34,7 @@ cd local_projeto/wallet-java/src/br/esig/com/nujava/main/
 ```
 
 ```java
-javac BancoDigital.java
+Banco Black BancoDigital.java
 ```
 
 ### **Autor**
